@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Shreyas:
 Motivated developer with hands-on experience in designing, developing, and maintaining scalable and secure applications. Proficient in Java, with a solid understanding of object-oriented programming and data structures. Skilled in using frameworks such as Spring, Spring Boot, and Hibernate to build robust backend systems. Familiar with React for frontend development and eager to expand full-stack capabilities. Passionate about writing clean, efficient code and continuously learning new technologies to solve real-world problems.
 <br>
 
