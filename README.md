@@ -14,7 +14,7 @@
 <p align="center">
   <em>
     Highly motivated IT Engineering student at D. Y. Patil College of Engineering, Akurdi,
-    building scalable web applications with Java, Spring Boot, React, and strong Data Structures.
+    building scalable web applications with Java, Spring Boot, React.
   </em>
 </p>
 
@@ -43,15 +43,11 @@
 
 - 🚀 Built industry-level projects:
   - **PayPal Clone (Microservices + Kafka + React)**
-  - **Hotel & Villa Booking Website**
+  - **POS System**
   - **Fraud Detection using Machine Learning**
-  - **BookMyShow Clone (Spring Boot)**
+  - **Money Manager**
 
 - 💡 I enjoy turning **real-world problems** into **scalable and secure web applications**
-
-- 🎯 **Career Goal:** Software Developer / Backend Engineer in product-based or MNC companies
-
-- 📫 **Email:** `yourmail@gmail.com`
 
 ---
 
@@ -115,74 +111,13 @@
   />
 </p>
 
-
-### 🔥 Streak Stats
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Shreyasp-2004&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-### 🧮 Top Languages
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasp-2004&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Shreyasp-2004&theme=tokyonight&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-  />
-</p>
-
 ### 📈 Activity Graph
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthakkeche&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyasp-2004&theme=tokyo-night&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
-
----
-<!-- ──────────────────────────────────────────────────────────────── -->
-<!--                          PROJECTS                               -->
-<!-- ──────────────────────────────────────────────────────────────── -->
-
-## 📌 Featured Projects
-
-### 💳 PayPal Clone – Microservices Architecture
-- Java Spring Boot + Kafka + React  
-- Secure payments & event-driven system  
-- REST APIs with authentication
-
----
-
-### 🏨 Hotel & Villa Booking Website
-- React + Spring Boot  
-- Calendar UI, Google Maps API & dummy payment gateway  
-- Industry-level UI design
-
----
-
-### 📊 Fraud Detection System (ML)
-- POS transaction fraud detection using Machine Learning  
-- Python + ML model integration  
-
----
-
-### 🎬 BookMyShow Clone
-- Movie ticket booking platform using Spring Boot  
-
----
-
-<!-- ──────────────────────────────────────────────────────────────── -->
-<!--                        FUN SECTION                               -->
-<!-- ──────────────────────────────────────────────────────────────── -->
 
 ## 🎯 Quick Snapshot
 
@@ -202,7 +137,7 @@
   <a href="https://github.com/Shreyasp-2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="www.linkedin.com/in/shreyas-palsodkar-a9a29025a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
