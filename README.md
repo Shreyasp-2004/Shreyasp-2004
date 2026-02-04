@@ -137,7 +137,7 @@
   <a href="https://github.com/Shreyasp-2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/shreyas-palsodkar-a9a29025a" target="_blank">
+  <a href="https://linkedin.com/in/shreyas-palsodkar-a9a29025a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
